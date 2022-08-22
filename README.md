@@ -4,11 +4,13 @@ https://www.linkedin.com/learning/react-js-building-an-interface-8551484/passing
 
 https://github.com/LinkedInLearning/react-interface-2880067
 
-https://github.com/LinkedInLearning/react-interface-2880067/wiki/
+https://github.com/LinkedInLearning/react-interface-2880067/wiki
+
+
 
 
 https://raybo.org/slides_tailwind/?d=01_05&#/1/0/2
------------------
+----------------
 
 Icons:
 https://react-icons.github.io/react-icons/search?q=trash
